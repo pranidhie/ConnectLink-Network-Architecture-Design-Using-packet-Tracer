@@ -1,6 +1,8 @@
 # ConnectLink-Network-Architecture-Design-Using-packet-Tracer
 
 🖧 Connect Link Network Design Project
+
+
 📍 Introduction
 Connect Link operates across a three-floor office building, with each floor dedicated to a specific department. To support efficient daily operations, the company needs a reliable, secure, and scalable network design. This project outlines the planning, design, and simulation of such a network using Cisco Packet Tracer.
 
